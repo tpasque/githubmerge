@@ -1,0 +1,174 @@
+/*Your code here*/
+body{
+  background-color:#8EC8CA;
+
+}
+
+header{
+  border:1px solid blue;
+  background-color: red;
+  width: 95vw;
+  height:10vh;
+  margin: 0 auto;
+  position:relative;
+  top: 1vh;
+  /*padding-top: 20px;*/
+
+}
+
+nav{
+  border: 1px solid black;
+  background-color: #F17F30;
+  width: 90vw;
+  height:30px;
+  top: 5vh;
+  left: 50%;
+  margin-left: -45vw;
+  position:absolute;
+}
+
+.section1{
+  border: 1px solid black;
+  background-color: #61C7C9;
+  width: 62vw;
+  height: 70vh;
+  top:12vh;
+  position:absolute;
+  left: 2.5vw;
+}
+
+.section1head{
+  border: 1px solid black;
+  background-color: red;
+  width: 55vw;
+  height:8vh;
+  top:3vh;
+  left: 3.5vw;
+  position:absolute;
+}
+
+.section1art{
+  border: 1px solid black;
+  background-color: #5DC00C;
+  width: 55vw;
+  height: 45vh;
+  top:12vh;
+  left: 3.5vw;
+  position:absolute;
+}
+
+.section1p1{
+  border: 1px solid black;
+  background-color: #F49C50;
+  width: 50vw;
+  height: 10vh;
+  top:3vh;
+  left:1vw;
+  position:absolute;
+}
+
+.section1p2{
+  border: 1px solid black;
+  background-color: #F49C50;
+  width: 30vw;
+  height: 10vh;
+  top:15vh;
+  left:1vw;
+  position:absolute;
+}
+.section1p3{
+  border: 1px solid black;
+  background-color: #F49C50;
+  width: 50vw;
+  height: 10vh;
+  top:27vh;
+  left:1vw;
+  position:absolute;
+}
+
+aside{
+  border: 1px solid black;
+  background-color: #001F7E;
+  width: 19vw;
+  height: 10vh;
+  top:15vh;
+  left:32vw;
+  position:absolute;
+
+}
+
+.section1foot1{
+  border: 1px solid black;
+  background-color: #B2453B;
+  width: 50vw;
+  height: 5vh;
+  top: 38.5vh;
+  left: 1vw;
+  position:absolute;
+}
+
+.section1foot2{
+  border: 1px solid black;
+  background-color: #B2453B;
+  width: 55vw;
+  height:8vh;
+  left: 3.5vw;
+  top: 60vh;
+  position:absolute;
+}
+
+/*Start on Article 2 Header*/
+
+.section2{
+  border: 1px solid black;
+  background-color: #61C7C9;
+  width: 30vw;
+  height: 70vh;
+  top:12vh;
+  position:absolute;
+  left: 67.5vw;
+
+}
+
+.section2head{
+  border: 1px solid black;
+  background-color: red;
+  width: 25vw;
+  height:8vh;
+  top:3vh;
+  left: 2.5vw;
+  position:absolute;
+}
+
+.section2p1{
+  border: 1px solid black;
+  background-color: #F17F30;
+  width: 25vw;
+  height: 45vh;
+  top:12vh;
+  left: 2.5vw;
+  position:absolute;
+}
+
+.section2foot{
+  border: 1px solid black;
+  background-color: #B2453B;
+  width: 25vw;
+  height:8vh;
+  left: 2.5vw;
+  top: 60vh;
+  position:absolute;
+}
+
+
+
+.mainfoot{
+  border: 1px solid black;
+  background-color: #B2453B;
+  position:fixed;
+  bottom: 3vh;
+  width:95vw;
+  height:12vh;
+  left: 2.5vw;
+
+}
